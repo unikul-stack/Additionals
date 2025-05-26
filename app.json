@@ -1,0 +1,51 @@
+{
+  "id": "47147305-23f8-4a4b-a595-ee13847b95f5",
+  "name": "DTETDEV1",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "5a00b86e-b7c2-4faf-8a88-aa39b5c0c8b5",
+      "name": "SLCM and Library",
+      "version": "1.0.0.1",
+      "publisher": "UNIKUL"
+    },
+    {
+      "id": "c1335042-3002-4257-bf8a-75c898ccb1b8",
+      "name": "Application",
+      "version": "20.0.0.0",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "37f070f2-aa8c-41de-93c5-1c1c8815d9e1",
+      "name": "ALProject13",
+      "version": "1.0.0.0",
+      "publisher": "Default publisher"
+    }
+
+  ],
+  "screenshots": [],
+  "platform": "20.0.42653.43007",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 99999999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "9.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
